@@ -1,0 +1,52 @@
+
+.icon-bar {
+  width: 100%;
+  height: 74px;
+  left: 0px;
+  right: 0px;
+  position: fixed;
+  bottom: 0px;
+  background-color: #444444;
+  overflow: auto;
+  
+}
+.icon-bar a {
+  float: left;
+  width: 25%;
+  height: 60px;
+  text-align: center;
+  padding: 12px 12px;
+  transition: all 0.1s ease;
+  color: white;
+  font-size: 36px;
+}
+.templatemo-content-widget no-padding
+{ } 
+#portfolio 
+{ 
+				background-color: #DCDCDC; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
